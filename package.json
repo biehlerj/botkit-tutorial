@@ -1,0 +1,22 @@
+{
+  "name": "botkit-tutorial",
+  "version": "1.0.0",
+  "description": "Going through botkit tutorial",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biehlerj/botkit-tutorial.git"
+  },
+  "author": "biehlerj@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biehlerj/botkit-tutorial/issues"
+  },
+  "homepage": "https://github.com/biehlerj/botkit-tutorial#readme",
+  "dependencies": {
+    "botkit": "^0.7.2"
+  }
+}
